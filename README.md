@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Lakshmi! 👋
 
-<!--
-**lakshmips22/lakshmips22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍🎓 About Me
+- 🎓 B.Tech Computer Science Engineering Student
+- 🌱 Currently learning Python, Data Analysis, AI, and Web Development
+- 💻 Passionate about building projects and improving my programming skills
+- 🚀 Aspiring Software Engineer
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- C
+- Python
+- HTML (Learning)
+- CSS (Learning)
+- JavaScript (Learning)
+- Git & GitHub
+- Microsoft Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Working On
+- 📊 Data Analysis with Python
+- 💻 Full Stack Development
+- 🤖 Programming in AI
+- 🎓 Scholarship Management System
+
+## 📫 Connect with Me
+- LinkedIn: 
