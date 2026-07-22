@@ -22,4 +22,4 @@
 - 🎓 Scholarship Management System
 
 ## 📫 Connect with Me
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/lakshmips2006
